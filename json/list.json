@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "『NewJeans 1st EP 'New Jeans' Bluebook ver.』 앨범 내 영문 번역 오표기 안내",
+        "content": "항상 NewJeans를 응원해 주셔서 감사합니다.「NewJeans 1st EP 'New Jeans' Bluebook ver.」구성품의 영문 번역의 오표기에 관한 안내입니다.",
+        "createDate": "2022.08.08"
+    },
+    {
+        "id": 2,
+        "title": "고객센터 하계 휴가 안내",
+        "content": "항상 NewJeans를 응원해 주셔서 감사합니다. 고객센터의 하계 휴가로 인한 휴무일을 안내합니다. 〇기간:2022년 8월 12일(금)~2022년 8월 17일(수)",
+        "createDate": "2022.08.08"
+    },
+    {
+        "id": 3,
+        "title": "NewJeans 1st EP 'New Jeans' 출시 기념 이벤트 <멤버 개별 온라인 토크회>＆<멤버 전원 온라인 환영회>를 진행합니다!",
+        "content": "NewJeans 1st EP 'New Jeans' 출시 기념 이벤트 <멤버 개별 온라인 토크회>＆<멤버 전원 온라인 환영회를 진행합니다! 자세한 내용은 다음과 같습니다.",
+        "createDate": "2022.07.29"
+    },
+    {
+        "id": 4,
+        "title": "NewJeans 1st EP 'New Jeans'의 예약 판매를 시작합니다.",
+        "content": "NewJeans 1st EP 'New Jeans'의 예약 판매가 2022년 7월 25일(월) AM11:00부터 시작됩니다! 자세한 내용은 아래에서 확인해주세요.",
+        "createDate": "2022.07.25"
+    },
+    {
+        "id": 5,
+        "title": "NewJeans 1st EP 'New Jeans'의 예약 판매가 결정되었습니다.",
+        "content": "2022년 8월 20일(토) NewJeans 1st EP 'New Jeans'의 예약 판매가 결정되었습니다.",
+        "createDate": "2022.07.25"
+    }
+]
